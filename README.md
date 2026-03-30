@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Aymen</h1>
 <h3 align="left">A Passionate Software Engineer</h3>
 
-<p align="left"> <a href="https://github.com/Sedoxxx"><img src="https://github-profile-trophy.vercel.app/?username=sedoxxx&theme=onestar&title=-Stars,-Followers,-Reviews,-Issues" alt="sedoxxx" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/Sedoxxx"><img src="https://github-profile-trophy.vercel.app/?username=sedoxxx&theme=onestar&title=-Stars,-Followers,-Reviews,-Issues" alt="sedoxxx" /></a> </p> -->
 
 - 📫 How to reach me **aymounadaassi@gmail.com**
 
