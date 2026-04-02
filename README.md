@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/Sedoxxx"><img src="https://github-profile-trophy.vercel.app/?username=sedoxxx&theme=onestar&title=-Stars,-Followers,-Reviews,-Issues" alt="sedoxxx" /></a> </p> -->
 
-- 📫 How to reach me **aymounadaassi@gmail.com**
+- 📫 How to reach me **aymendaassi.work@gmail.com**
 
 - ⚡ Fun fact **I speak 4 languages**
 
